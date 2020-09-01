@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mstewart/firstProject/whattotest.cpp
+whattotest.h
+/home/mstewart/firstProject/whattotest.h
+
+/home/mstewart/firstProject/whattotest.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+

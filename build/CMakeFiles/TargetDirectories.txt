@@ -1,0 +1,5 @@
+/home/mstewart/firstProject/build/CMakeFiles/rebuild_cache.dir
+/home/mstewart/firstProject/build/CMakeFiles/edit_cache.dir
+/home/mstewart/firstProject/build/CMakeFiles/runMain.dir
+/home/mstewart/firstProject/build/CMakeFiles/runTests.dir
+/home/mstewart/firstProject/build/CMakeFiles/applibrary.dir
